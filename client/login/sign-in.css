@@ -4,7 +4,7 @@ body {
 }
 
 .form-signin {
-  max-width: 330px;
+  /* max-width: 630px; */
   padding: 1rem;
 }
 
@@ -22,4 +22,8 @@ body {
   margin-bottom: 10px;
   border-top-left-radius: 0;
   border-top-right-radius: 0;
+}
+
+button.btn.btn-primary.w-100.py-2 {
+  margin-top: 10px;
 }

@@ -1,0 +1,4 @@
+server/myworld/Lib/
+server/myworld/Scripts/*.exe
+server/myworld/Scripts/*.pyc
+server/myworld/Scripts/**/*.pyc
